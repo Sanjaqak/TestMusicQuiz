@@ -115,8 +115,7 @@
 				16FCA9841983ACAC005DC51F /* AppDelegate.h */,
 				16FCA9851983ACAC005DC51F /* AppDelegate.m */,
 				16FCA9871983ACAC005DC51F /* Main.storyboard */,
-				16FCA98A1983ACAC005DC51F /* ViewController.h */,
-				16FCA98B1983ACAC005DC51F /* ViewController.m */,
+				16FCA9AA1983ACC2005DC51F /* View Controllers */,
 				16FCA98D1983ACAC005DC51F /* Images.xcassets */,
 				16FCA97C1983ACAC005DC51F /* Supporting Files */,
 			);
@@ -150,6 +149,15 @@
 				16FCA99D1983ACAD005DC51F /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		16FCA9AA1983ACC2005DC51F /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				16FCA98A1983ACAC005DC51F /* ViewController.h */,
+				16FCA98B1983ACAC005DC51F /* ViewController.m */,
+			);
+			name = "View Controllers";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
